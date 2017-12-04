@@ -1,0 +1,1243 @@
+{
+  "moduleList": [
+    {
+      "data": {
+        "areas": [],
+        "imgHeight": "300",
+        "imgSrc": "//img.dmallcdn.com//dshop/201706/1fd67b63-ed08-4340-8b81-f3a83de4b290",
+        "imgWidth": "750"
+      },
+      "instanceId": 1120736,
+      "moduleDesc": "图片热区",
+      "moduleName": "image-area",
+      "tplName": "image-area-template1"
+    },
+    {
+      "data": {
+        "bkColor": "#ffffff",
+        "ftColor": "#000000",
+        "list": [
+          {
+            "anchor": "1120738",
+            "text": "惊爆品"
+          },
+          {
+            "anchor": "1120740",
+            "text": "健康果蔬"
+          },
+          {
+            "anchor": "1120742",
+            "text": "肉蛋禽"
+          },
+          {
+            "anchor": "1126740",
+            "isCheck": "3",
+            "text": "美味水产"
+          }
+        ],
+        "selected_ftColor": "#ffffff",
+        "showType": "1"
+      },
+      "instanceId": 1120737,
+      "moduleDesc": "导航",
+      "moduleName": "navigate",
+      "tplName": "navigate-template1"
+    },
+    {
+      "data": {
+        "areas": [],
+        "imgHeight": "100",
+        "imgSrc": "//img.dmallcdn.com//dshop/201706/a5e8051b-f53d-41fc-b858-5bd40f192d43",
+        "imgWidth": "750"
+      },
+      "instanceId": 1120738,
+      "moduleDesc": "图片热区",
+      "moduleName": "image-area",
+      "tplName": "image-area-template1"
+    },
+    {
+      "data": {
+        "wareRcmds": {
+          "bgColor": "#0079fe",
+          "customPriceCfg": -1,
+          "hideWare": 1,
+          "iconId": -1,
+          "normal": [
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1298,
+              "iconId": -1,
+              "offPrice": 1298,
+              "originalPrice": 1298,
+              "promotionTag": "",
+              "skuId": 109006,
+              "stock": 999,
+              "wareId": 109006,
+              "wareImgUri": "20170227/8a7ebcee-4c12-450e-8a82-9b03e93a0276",
+              "wareImgUrl": "//img.dmallcdn.com//20170227/8a7ebcee-4c12-450e-8a82-9b03e93a0276",
+              "wareName": "精品前尖 500g",
+              "warePrice": 12.98
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 2198,
+              "iconId": -1,
+              "offPrice": 1998,
+              "originalPrice": 1998,
+              "promotionTag": "",
+              "skuId": 109008,
+              "stock": 995,
+              "wareId": 109008,
+              "wareImgUri": "20170220/8d00c164-9832-41c2-bdf0-8d13a7e910e1",
+              "wareImgUrl": "//img.dmallcdn.com//20170220/8d00c164-9832-41c2-bdf0-8d13a7e910e1",
+              "wareName": "精品五花 500g",
+              "warePrice": 19.98
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 2250,
+              "iconId": -1,
+              "offPrice": 1999,
+              "originalPrice": 1999,
+              "promotionTag": "",
+              "skuId": 111476,
+              "stock": 999,
+              "wareId": 111476,
+              "wareImgUri": "20170109/ecf65be5-cb4b-4767-93e5-5c08b564badf",
+              "wareImgUrl": "//img.dmallcdn.com//20170109/ecf65be5-cb4b-4767-93e5-5c08b564badf",
+              "wareName": "鸡翅中 500g",
+              "warePrice": 19.99
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 3698,
+              "iconId": -1,
+              "offPrice": 3698,
+              "originalPrice": 3698,
+              "promotionTag": "",
+              "skuId": 106057,
+              "stock": 998,
+              "wareId": 106057,
+              "wareImgUri": "20160621/194b4295-b3e4-4051-9ed6-cf8d19c51ef5",
+              "wareImgUrl": "//img.dmallcdn.com//20160621/194b4295-b3e4-4051-9ed6-cf8d19c51ef5",
+              "wareName": "去头红虾（20%包冰） 500g",
+              "warePrice": 36.98
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 3390,
+              "iconId": -1,
+              "offPrice": 3390,
+              "originalPrice": 3390,
+              "promotionTag": "",
+              "skuId": 102085,
+              "stock": 999,
+              "wareId": 102085,
+              "wareImgUri": "20161130/3211fd27-6571-47ba-afe5-4af0a6847169",
+              "wareImgUrl": "//img.dmallcdn.com//20161130/3211fd27-6571-47ba-afe5-4af0a6847169",
+              "wareName": "厄瓜多尔虾（中） 500g",
+              "warePrice": 33.9
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1380,
+              "iconId": -1,
+              "offPrice": 1380,
+              "originalPrice": 1380,
+              "promotionTag": "",
+              "skuId": 100258328,
+              "stock": 14,
+              "wareId": 10259293,
+              "wareImgUri": "20161213/b1e6aaa0-a29e-4a2d-ace2-3be7ad74d26b",
+              "wareImgUrl": "//img.dmallcdn.com//20161213/b1e6aaa0-a29e-4a2d-ace2-3be7ad74d26b",
+              "wareName": "乐渔带鱼段 700g",
+              "warePrice": 13.8
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 2990,
+              "iconId": -1,
+              "offPrice": 3990,
+              "originalPrice": 3990,
+              "promotionTag": "",
+              "skuId": 104174,
+              "stock": 2359,
+              "wareId": 104174,
+              "wareImgUri": "20150724/6797624c-185b-469f-96a0-c7bb7c933148",
+              "wareImgUrl": "//img.dmallcdn.com//20150724/6797624c-185b-469f-96a0-c7bb7c933148",
+              "wareName": "京欣西瓜  1个",
+              "warePrice": 37.6
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 790,
+              "iconId": -1,
+              "offPrice": 1990,
+              "originalPrice": 790,
+              "promotionTag": "",
+              "skuId": 100311238,
+              "stock": 221,
+              "wareId": 10290723,
+              "wareImgUri": "20170119/77f411dd-22c2-4c72-acf7-f81a4781aaf6",
+              "wareImgUrl": "//img.dmallcdn.com//20170119/77f411dd-22c2-4c72-acf7-f81a4781aaf6",
+              "wareName": "正大鲜鸡蛋 15枚",
+              "warePrice": 7.9
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 288,
+              "iconId": -1,
+              "offPrice": 288,
+              "originalPrice": 288,
+              "promotionTag": "",
+              "skuId": 100327407,
+              "stock": 25,
+              "wareId": 10306886,
+              "wareImgUri": "20170410/8fd51263-a765-4711-bcf3-014f18dd3888",
+              "wareImgUrl": "//img.dmallcdn.com//20170410/8fd51263-a765-4711-bcf3-014f18dd3888",
+              "wareName": "空心菜【捆】",
+              "warePrice": 3.88
+            }
+          ],
+          "promotionTag": "",
+          "showOffPrice": 1,
+          "skuStockRule": "1"
+        }
+      },
+      "instanceId": 1120739,
+      "moduleDesc": "商品推荐",
+      "moduleName": "ware-rcmd",
+      "tplName": "ware-rcmd-template1"
+    },
+    {
+      "data": {
+        "areas": [],
+        "imgHeight": "100",
+        "imgSrc": "//img.dmallcdn.com//dshop/201706/81ec0006-6383-4138-aa2b-a813a2c895c1",
+        "imgWidth": "750"
+      },
+      "instanceId": 1120740,
+      "moduleDesc": "图片热区",
+      "moduleName": "image-area",
+      "tplName": "image-area-template1"
+    },
+    {
+      "data": {
+        "wareRcmds": {
+          "bgColor": "#0079fe",
+          "customPriceCfg": -1,
+          "hideWare": 1,
+          "iconId": -1,
+          "normal": [
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1510,
+              "iconId": -1,
+              "offPrice": 1510,
+              "originalPrice": 1510,
+              "promotionTag": "",
+              "skuId": 104656,
+              "stock": 508,
+              "wareId": 104656,
+              "wareImgUri": "20170607/99347044-0b96-44f6-8290-eedc9f6df1bc",
+              "wareImgUrl": "//img.dmallcdn.com//20170607/99347044-0b96-44f6-8290-eedc9f6df1bc",
+              "wareName": "妃子笑荔枝 800g/1份",
+              "warePrice": 11.3
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1430,
+              "iconId": -1,
+              "offPrice": 1430,
+              "originalPrice": 1430,
+              "promotionTag": "",
+              "skuId": 104645,
+              "stock": 58,
+              "wareId": 104645,
+              "wareImgUri": "20170607/bf53a29b-2da0-4324-a2ad-dd3e0ac87343",
+              "wareImgUrl": "//img.dmallcdn.com//20170607/bf53a29b-2da0-4324-a2ad-dd3e0ac87343",
+              "wareName": "樱桃  300g/1份",
+              "warePrice": 8.8
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 2690,
+              "iconId": -1,
+              "offPrice": 3230,
+              "originalPrice": 3230,
+              "promotionTag": "",
+              "skuId": 100047,
+              "stock": 528,
+              "wareId": 100047,
+              "wareImgUri": "20170607/68687059-bcdb-408c-b691-d5ea53d766f1",
+              "wareImgUrl": "//img.dmallcdn.com//20170607/68687059-bcdb-408c-b691-d5ea53d766f1",
+              "wareName": "红肉火龙果 2粒",
+              "warePrice": 20.6
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 3990,
+              "iconId": -1,
+              "offPrice": 3990,
+              "originalPrice": 3990,
+              "promotionTag": "",
+              "skuId": 104174,
+              "stock": 2359,
+              "wareId": 104174,
+              "wareImgUri": "20150724/6797624c-185b-469f-96a0-c7bb7c933148",
+              "wareImgUrl": "//img.dmallcdn.com//20150724/6797624c-185b-469f-96a0-c7bb7c933148",
+              "wareName": "京欣西瓜  1个",
+              "warePrice": 37.6
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1290,
+              "iconId": -1,
+              "offPrice": 1580,
+              "originalPrice": 1090,
+              "promotionTag": "",
+              "skuId": 105645,
+              "stock": 287,
+              "wareId": 105645,
+              "wareImgUri": "20170607/929480c8-dcee-4a4a-91c3-d4b118b88af8",
+              "wareImgUrl": "//img.dmallcdn.com//20170607/929480c8-dcee-4a4a-91c3-d4b118b88af8",
+              "wareName": "佳沃蓝莓 125g/盒",
+              "warePrice": 10.9
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 3360,
+              "iconId": -1,
+              "offPrice": 3360,
+              "originalPrice": 3360,
+              "promotionTag": "",
+              "skuId": 100003,
+              "stock": 74,
+              "wareId": 100003,
+              "wareImgUri": "20160616/7a42d06a-0e15-4ba7-b296-cd5346fa5ab5",
+              "wareImgUrl": "//img.dmallcdn.com//20160616/7a42d06a-0e15-4ba7-b296-cd5346fa5ab5",
+              "wareName": "进口山竹 6粒",
+              "warePrice": 26.3
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 820,
+              "iconId": -1,
+              "offPrice": 1030,
+              "originalPrice": 1030,
+              "promotionTag": "",
+              "skuId": 100015,
+              "stock": 582,
+              "wareId": 100015,
+              "wareImgUri": "20170220/640e0e25-254c-474e-a108-a6595ed9f766",
+              "wareImgUrl": "//img.dmallcdn.com//20170220/640e0e25-254c-474e-a108-a6595ed9f766",
+              "wareName": "国产香蕉 6根",
+              "warePrice": 8
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1040,
+              "iconId": -1,
+              "offPrice": 1090,
+              "originalPrice": 1090,
+              "promotionTag": "",
+              "skuId": 104657,
+              "stock": 32,
+              "wareId": 104657,
+              "wareImgUri": "20170220/60f73450-05ef-4f49-9565-c4dfd76f08bb",
+              "wareImgUrl": "//img.dmallcdn.com//20170220/60f73450-05ef-4f49-9565-c4dfd76f08bb",
+              "wareName": "红富士 4粒",
+              "warePrice": 13.6
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1010,
+              "iconId": -1,
+              "offPrice": 1250,
+              "originalPrice": 1250,
+              "promotionTag": "",
+              "skuId": 104384,
+              "stock": 78,
+              "wareId": 104384,
+              "wareImgUri": "20170607/be342dd8-3bbf-4570-b1a1-e9fdfe8a5620",
+              "wareImgUrl": "//img.dmallcdn.com//20170607/be342dd8-3bbf-4570-b1a1-e9fdfe8a5620",
+              "wareName": "黄油桃 6粒",
+              "warePrice": 14
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 750,
+              "iconId": -1,
+              "offPrice": 750,
+              "originalPrice": 750,
+              "promotionTag": "",
+              "skuId": 100064,
+              "stock": 48,
+              "wareId": 100064,
+              "wareImgUri": "20170607/9de3e1ec-0d11-4c1c-ab88-fbab3dcc73fc",
+              "wareImgUrl": "//img.dmallcdn.com//20170607/9de3e1ec-0d11-4c1c-ab88-fbab3dcc73fc",
+              "wareName": "绿甜瓜 2粒",
+              "warePrice": 7.5
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 2040,
+              "iconId": -1,
+              "offPrice": 2040,
+              "originalPrice": 2040,
+              "promotionTag": "",
+              "skuId": 109774,
+              "stock": 566,
+              "wareId": 109774,
+              "wareImgUri": "20151230/779744cb-9529-406e-ad47-abae6148d3e3",
+              "wareImgUrl": "//img.dmallcdn.com//20151230/779744cb-9529-406e-ad47-abae6148d3e3",
+              "wareName": "精品红富士 4粒",
+              "warePrice": 18
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 670,
+              "iconId": -1,
+              "offPrice": 670,
+              "originalPrice": 670,
+              "promotionTag": "",
+              "skuId": 104183,
+              "stock": 55,
+              "wareId": 104183,
+              "wareImgUri": "20160507/4961ee7d-bc74-44eb-9aa5-3cf78fbbeda3",
+              "wareImgUrl": "//img.dmallcdn.com//20160507/4961ee7d-bc74-44eb-9aa5-3cf78fbbeda3",
+              "wareName": "香瓜 2粒",
+              "warePrice": 8.4
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 750,
+              "iconId": -1,
+              "offPrice": 750,
+              "originalPrice": 750,
+              "promotionTag": "",
+              "skuId": 105890,
+              "stock": 375,
+              "wareId": 105890,
+              "wareImgUri": "20170314/a3ead3ba-91fb-4bea-8976-387a31c0caca",
+              "wareImgUrl": "//img.dmallcdn.com//20170314/a3ead3ba-91fb-4bea-8976-387a31c0caca",
+              "wareName": "西红柿 6粒",
+              "warePrice": 6.6
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 920,
+              "iconId": -1,
+              "offPrice": 750,
+              "originalPrice": 750,
+              "promotionTag": "",
+              "skuId": 105219,
+              "stock": 87,
+              "wareId": 105219,
+              "wareImgUri": "20151009/82ed5546-008c-4e1c-b542-03162562de03",
+              "wareImgUrl": "//img.dmallcdn.com//20151009/82ed5546-008c-4e1c-b542-03162562de03",
+              "wareName": "千禧圣女果 500g/1份",
+              "warePrice": 5.99
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 370,
+              "iconId": -1,
+              "offPrice": 500,
+              "originalPrice": 500,
+              "promotionTag": "",
+              "skuId": 101881,
+              "stock": 463,
+              "wareId": 101881,
+              "wareImgUri": "20150725/d7a5f88c-8c8a-481e-82bc-f140c0a6d743",
+              "wareImgUrl": "//img.dmallcdn.com//20150725/d7a5f88c-8c8a-481e-82bc-f140c0a6d743",
+              "wareName": "土豆 6粒",
+              "warePrice": 4.2
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 690,
+              "iconId": -1,
+              "offPrice": 690,
+              "originalPrice": 690,
+              "promotionTag": "",
+              "skuId": 105925,
+              "stock": 343,
+              "wareId": 105925,
+              "wareImgUri": "20170113/402c3d33-9368-4040-8343-cf4dc3ab7cc9",
+              "wareImgUrl": "//img.dmallcdn.com//20170113/402c3d33-9368-4040-8343-cf4dc3ab7cc9",
+              "wareName": "红薯 2粒",
+              "warePrice": 6.7
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 150,
+              "iconId": -1,
+              "offPrice": 280,
+              "originalPrice": 280,
+              "promotionTag": "",
+              "skuId": 105889,
+              "stock": 1130,
+              "wareId": 105889,
+              "wareImgUri": "20170315/8c9bc4fd-1551-4b50-b30d-db508cca6210",
+              "wareImgUrl": "//img.dmallcdn.com//20170315/8c9bc4fd-1551-4b50-b30d-db508cca6210",
+              "wareName": "黄瓜 2根",
+              "warePrice": 2.6
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 188,
+              "iconId": -1,
+              "offPrice": 188,
+              "originalPrice": 188,
+              "promotionTag": "",
+              "skuId": 102708,
+              "stock": 162,
+              "wareId": 102708,
+              "wareImgUri": "20160407/5a14dd31-bddc-4f18-b5e7-020a262cddd5",
+              "wareImgUrl": "//img.dmallcdn.com//20160407/5a14dd31-bddc-4f18-b5e7-020a262cddd5",
+              "wareName": "甜玉米 300g/根",
+              "warePrice": 2.4
+            }
+          ],
+          "promotionTag": "",
+          "showOffPrice": 1,
+          "skuStockRule": "1"
+        }
+      },
+      "instanceId": 1120741,
+      "moduleDesc": "商品推荐",
+      "moduleName": "ware-rcmd",
+      "tplName": "ware-rcmd-template1"
+    },
+    {
+      "data": {
+        "areas": [],
+        "imgHeight": "97",
+        "imgSrc": "//img.dmallcdn.com//dshop/201706/b3acc56c-6ade-4baa-87cf-7894bdd9adbe",
+        "imgWidth": "750"
+      },
+      "instanceId": 1120742,
+      "moduleDesc": "图片热区",
+      "moduleName": "image-area",
+      "tplName": "image-area-template1"
+    },
+    {
+      "data": {
+        "wareRcmds": {
+          "bgColor": "#0079fe",
+          "customPriceCfg": -1,
+          "hideWare": 1,
+          "iconId": -1,
+          "normal": [
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 5196,
+              "iconId": -1,
+              "offPrice": 5196,
+              "originalPrice": 5196,
+              "promotionTag": "",
+              "skuId": 108982,
+              "stock": 999,
+              "wareId": 108982,
+              "wareImgUri": "20160726/8ca553af-c578-43fc-a502-1af39ed68861",
+              "wareImgUrl": "//img.dmallcdn.com//20160726/8ca553af-c578-43fc-a502-1af39ed68861",
+              "wareName": "冻肋排 1kg/份",
+              "warePrice": 51.96
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 4194,
+              "iconId": -1,
+              "offPrice": 4194,
+              "originalPrice": 4194,
+              "promotionTag": "",
+              "skuId": 111022,
+              "stock": 999,
+              "wareId": 111022,
+              "wareImgUri": "20160815/6d52d6f8-99ac-447f-94ea-20893ac6863d",
+              "wareImgUrl": "//img.dmallcdn.com//20160815/6d52d6f8-99ac-447f-94ea-20893ac6863d",
+              "wareName": "腔前排 1.5kg/份",
+              "warePrice": 41.94
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1680,
+              "iconId": -1,
+              "offPrice": 1298,
+              "originalPrice": 1298,
+              "promotionTag": "",
+              "skuId": 109006,
+              "stock": 999,
+              "wareId": 109006,
+              "wareImgUri": "20170227/8a7ebcee-4c12-450e-8a82-9b03e93a0276",
+              "wareImgUrl": "//img.dmallcdn.com//20170227/8a7ebcee-4c12-450e-8a82-9b03e93a0276",
+              "wareName": "精品前尖 500g",
+              "warePrice": 12.98
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 2198,
+              "iconId": -1,
+              "offPrice": 1998,
+              "originalPrice": 1998,
+              "promotionTag": "",
+              "skuId": 109008,
+              "stock": 995,
+              "wareId": 109008,
+              "wareImgUri": "20170220/8d00c164-9832-41c2-bdf0-8d13a7e910e1",
+              "wareImgUrl": "//img.dmallcdn.com//20170220/8d00c164-9832-41c2-bdf0-8d13a7e910e1",
+              "wareName": "精品五花 500g",
+              "warePrice": 19.98
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 5896,
+              "iconId": -1,
+              "offPrice": 5896,
+              "originalPrice": 5896,
+              "promotionTag": "",
+              "skuId": 109418,
+              "stock": 999,
+              "wareId": 109418,
+              "wareImgUri": "20160615/83112bdc-e65c-465d-9f5b-02d0652230cc",
+              "wareImgUrl": "//img.dmallcdn.com//20160615/83112bdc-e65c-465d-9f5b-02d0652230cc",
+              "wareName": "牛上脑 1kg/份",
+              "warePrice": 58.96
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1848,
+              "iconId": -1,
+              "offPrice": 1848,
+              "originalPrice": 1848,
+              "promotionTag": "",
+              "skuId": 111667,
+              "stock": 999,
+              "wareId": 111667,
+              "wareImgUri": "20160510/7e30f236-65c2-47c0-ba85-e1d12032a929",
+              "wareImgUrl": "//img.dmallcdn.com//20160510/7e30f236-65c2-47c0-ba85-e1d12032a929",
+              "wareName": "带骨羊腱子 500g",
+              "warePrice": 18.48
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 2250,
+              "iconId": -1,
+              "offPrice": 1999,
+              "originalPrice": 1999,
+              "promotionTag": "",
+              "skuId": 111476,
+              "stock": 999,
+              "wareId": 111476,
+              "wareImgUri": "20170109/ecf65be5-cb4b-4767-93e5-5c08b564badf",
+              "wareImgUrl": "//img.dmallcdn.com//20170109/ecf65be5-cb4b-4767-93e5-5c08b564badf",
+              "wareName": "鸡翅中 500g",
+              "warePrice": 19.99
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1050,
+              "iconId": -1,
+              "offPrice": 858,
+              "originalPrice": 858,
+              "promotionTag": "",
+              "skuId": 111481,
+              "stock": 999,
+              "wareId": 111481,
+              "wareImgUri": "20170220/d30463a1-c91a-465e-8fb2-b74b492dfa84",
+              "wareImgUrl": "//img.dmallcdn.com//20170220/d30463a1-c91a-465e-8fb2-b74b492dfa84",
+              "wareName": "鸡大胸 500g/份",
+              "warePrice": 8.58
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1920,
+              "iconId": -1,
+              "offPrice": 1920,
+              "originalPrice": 1920,
+              "promotionTag": "",
+              "skuId": 109608,
+              "stock": 999,
+              "wareId": 109608,
+              "wareImgUri": "20161205/97c22298-59f3-4851-a0e2-85f2e4fd5443",
+              "wareImgUrl": "//img.dmallcdn.com//20161205/97c22298-59f3-4851-a0e2-85f2e4fd5443",
+              "wareName": "鸡大腿 1.2kg/份",
+              "warePrice": 19.2
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 960,
+              "iconId": -1,
+              "offPrice": 799,
+              "originalPrice": 799,
+              "promotionTag": "",
+              "skuId": 111477,
+              "stock": 999,
+              "wareId": 111477,
+              "wareImgUri": "20170103/95fb64ce-880d-47e9-b274-6f0b1beb41d7",
+              "wareImgUrl": "//img.dmallcdn.com//20170103/95fb64ce-880d-47e9-b274-6f0b1beb41d7",
+              "wareName": "鸡翅根 500g",
+              "warePrice": 7.99
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 950,
+              "iconId": -1,
+              "offPrice": 798,
+              "originalPrice": 798,
+              "promotionTag": "",
+              "skuId": 100255292,
+              "stock": 999,
+              "wareId": 10256180,
+              "wareImgUri": "20161229/cdb30252-124e-46dd-9edd-b6158bd02660",
+              "wareImgUrl": "//img.dmallcdn.com//20161229/cdb30252-124e-46dd-9edd-b6158bd02660",
+              "wareName": "肥瘦肉馅 500g",
+              "warePrice": 7.98
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 880,
+              "iconId": -1,
+              "offPrice": 1990,
+              "originalPrice": 790,
+              "promotionTag": "",
+              "skuId": 100311238,
+              "stock": 221,
+              "wareId": 10290723,
+              "wareImgUri": "20170119/77f411dd-22c2-4c72-acf7-f81a4781aaf6",
+              "wareImgUrl": "//img.dmallcdn.com//20170119/77f411dd-22c2-4c72-acf7-f81a4781aaf6",
+              "wareName": "正大鲜鸡蛋 15枚",
+              "warePrice": 7.9
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1690,
+              "iconId": -1,
+              "offPrice": 2390,
+              "originalPrice": 1790,
+              "promotionTag": "",
+              "skuId": 106485,
+              "stock": 152,
+              "wareId": 106485,
+              "wareImgUri": "20170402/e4884efa-17be-4cc5-8f89-c0d27cf9de54",
+              "wareImgUrl": "//img.dmallcdn.com//20170402/e4884efa-17be-4cc5-8f89-c0d27cf9de54",
+              "wareName": "缤纷田园鲜鸡蛋 30枚",
+              "warePrice": 17.9
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1590,
+              "iconId": -1,
+              "offPrice": 2950,
+              "originalPrice": 1590,
+              "promotionTag": "",
+              "skuId": 179418,
+              "stock": 111,
+              "wareId": 179144,
+              "wareImgUri": "20170220/1835aee4-525c-4f4c-a6db-22490ad837d9",
+              "wareImgUrl": "//img.dmallcdn.com//20170220/1835aee4-525c-4f4c-a6db-22490ad837d9",
+              "wareName": "桃谷香鲜鸡蛋30枚装 ",
+              "warePrice": 15.9
+            },
+            {
+              "businessType": 2,
+              "skuId": 111480,
+              "stock": 999,
+              "wareId": 111480,
+              "wareImgUri": "20170220/4b9cfedf-2bf3-4c96-af99-dcd999271f52",
+              "wareImgUrl": "//img.dmallcdn.com//20170220/4b9cfedf-2bf3-4c96-af99-dcd999271f52",
+              "wareName": "琵琶腿 500g",
+              "warePrice": 7.58
+            },
+            {
+              "businessType": 2,
+              "skuId": 100228936,
+              "stock": 30,
+              "wareId": 10229465,
+              "wareImgUri": "20170227/696e1eaa-69eb-4832-8eaa-ffce1ed2d1f5",
+              "wareImgUrl": "//img.dmallcdn.com//20170227/696e1eaa-69eb-4832-8eaa-ffce1ed2d1f5",
+              "wareName": "华都骨肉相连 奥尔良口味 400g",
+              "warePrice": 11.99
+            },
+            {
+              "businessType": 2,
+              "skuId": 100325157,
+              "stock": 11,
+              "wareId": 10304636,
+              "wareImgUri": "20170420/e2e6341d-1b46-466b-96f3-7fb36a89b4b3",
+              "wareImgUrl": "//img.dmallcdn.com//20170420/e2e6341d-1b46-466b-96f3-7fb36a89b4b3",
+              "wareName": "晋龙五福善养六无安全蛋18枚",
+              "warePrice": 10.9
+            }
+          ],
+          "promotionTag": "",
+          "showOffPrice": 1,
+          "skuStockRule": "1"
+        }
+      },
+      "instanceId": 1120743,
+      "moduleDesc": "商品推荐",
+      "moduleName": "ware-rcmd",
+      "tplName": "ware-rcmd-template1"
+    },
+    {
+      "data": {
+        "areas": [],
+        "imgHeight": "102",
+        "imgSrc": "//img.dmallcdn.com//dshop/201706/c51237a1-f11b-4332-91db-68051726cdee",
+        "imgWidth": "750"
+      },
+      "instanceId": 1126740,
+      "moduleDesc": "图片热区",
+      "moduleName": "image-area",
+      "tplName": "image-area-template1"
+    },
+    {
+      "data": {
+        "wareRcmds": {
+          "bgColor": "#0079fe",
+          "customPriceCfg": -1,
+          "hideWare": 1,
+          "iconId": -1,
+          "normal": [
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 3698,
+              "iconId": -1,
+              "offPrice": 3698,
+              "originalPrice": 3698,
+              "promotionTag": "",
+              "skuId": 106057,
+              "stock": 998,
+              "wareId": 106057,
+              "wareImgUri": "20160621/194b4295-b3e4-4051-9ed6-cf8d19c51ef5",
+              "wareImgUrl": "//img.dmallcdn.com//20160621/194b4295-b3e4-4051-9ed6-cf8d19c51ef5",
+              "wareName": "去头红虾（20%包冰） 500g",
+              "warePrice": 36.98
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 3390,
+              "iconId": -1,
+              "offPrice": 3390,
+              "originalPrice": 3390,
+              "promotionTag": "",
+              "skuId": 102085,
+              "stock": 999,
+              "wareId": 102085,
+              "wareImgUri": "20161130/3211fd27-6571-47ba-afe5-4af0a6847169",
+              "wareImgUrl": "//img.dmallcdn.com//20161130/3211fd27-6571-47ba-afe5-4af0a6847169",
+              "wareName": "厄瓜多尔虾（中） 500g",
+              "warePrice": 33.9
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 3198,
+              "iconId": -1,
+              "offPrice": 3198,
+              "originalPrice": 3198,
+              "promotionTag": "",
+              "skuId": 102990,
+              "stock": 999,
+              "wareId": 102990,
+              "wareImgUri": "20160819/13c0a50f-fc75-49f9-b655-3127053b96ea",
+              "wareImgUrl": "//img.dmallcdn.com//20160819/13c0a50f-fc75-49f9-b655-3127053b96ea",
+              "wareName": "龙虾尾（20%包冰） 500g",
+              "warePrice": 31.98
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 2898,
+              "iconId": -1,
+              "offPrice": 2898,
+              "originalPrice": 2898,
+              "promotionTag": "",
+              "skuId": 102459,
+              "stock": 999,
+              "wareId": 102459,
+              "wareImgUri": "20160729/23805d21-6bac-41f7-934f-b5f1d12c24d0",
+              "wareImgUrl": "//img.dmallcdn.com//20160729/23805d21-6bac-41f7-934f-b5f1d12c24d0",
+              "wareName": "虾仁100/200（20%包冰） 500g",
+              "warePrice": 28.98
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 2680,
+              "iconId": -1,
+              "offPrice": 2680,
+              "originalPrice": 2680,
+              "promotionTag": "",
+              "skuId": 105783,
+              "stock": 999,
+              "wareId": 105783,
+              "wareImgUri": "20160728/2fee1f6b-3cd3-4e7d-995a-34ac4a0f3ef2",
+              "wareImgUrl": "//img.dmallcdn.com//20160728/2fee1f6b-3cd3-4e7d-995a-34ac4a0f3ef2",
+              "wareName": "海鲈鱼 700g/条",
+              "warePrice": 26.8
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1998,
+              "iconId": -1,
+              "offPrice": 1998,
+              "originalPrice": 1998,
+              "promotionTag": "",
+              "skuId": 102284,
+              "stock": 999,
+              "wareId": 102284,
+              "wareImgUri": "20160720/efdb0fb6-5181-4835-8239-b0e86263a3c2",
+              "wareImgUrl": "//img.dmallcdn.com//20160720/efdb0fb6-5181-4835-8239-b0e86263a3c2",
+              "wareName": "鲜黄鱼（小） 2条/500g",
+              "warePrice": 19.98
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1797,
+              "iconId": -1,
+              "offPrice": 1680,
+              "originalPrice": 1680,
+              "promotionTag": "",
+              "skuId": 102214,
+              "stock": 999,
+              "wareId": 102214,
+              "wareImgUri": "20160817/bbf8eee1-e2dc-462e-a1d0-31cf7869a308",
+              "wareImgUrl": "//img.dmallcdn.com//20160817/bbf8eee1-e2dc-462e-a1d0-31cf7869a308",
+              "wareName": "美国红鱼 750g/条",
+              "warePrice": 16.8
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 2680,
+              "iconId": -1,
+              "offPrice": 2680,
+              "originalPrice": 2680,
+              "promotionTag": "",
+              "skuId": 106086,
+              "stock": 999,
+              "wareId": 106086,
+              "wareImgUri": "20170510/16f03d23-146d-42ae-92a6-6f159153b2c0",
+              "wareImgUrl": "//img.dmallcdn.com//20170510/16f03d23-146d-42ae-92a6-6f159153b2c0",
+              "wareName": "冻大黄鱼 1.2kg",
+              "warePrice": 26.8
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 499,
+              "iconId": -1,
+              "offPrice": 499,
+              "originalPrice": 499,
+              "promotionTag": "",
+              "skuId": 106042,
+              "stock": 999,
+              "wareId": 106042,
+              "wareImgUri": "20160726/6cf7ed4e-c7bc-4a64-bf6c-6c96991395b2",
+              "wareImgUrl": "//img.dmallcdn.com//20160726/6cf7ed4e-c7bc-4a64-bf6c-6c96991395b2",
+              "wareName": "南极鱼5-6条 500g",
+              "warePrice": 4.99
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1560,
+              "iconId": -1,
+              "offPrice": 1560,
+              "originalPrice": 1560,
+              "promotionTag": "",
+              "skuId": 102402,
+              "stock": 999,
+              "wareId": 102402,
+              "wareImgUri": "20160825/813d6716-8cae-4683-b2c0-8dad29aeabca",
+              "wareImgUrl": "//img.dmallcdn.com//20160825/813d6716-8cae-4683-b2c0-8dad29aeabca",
+              "wareName": "带鱼B级2条 500g",
+              "warePrice": 15.6
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1880,
+              "iconId": -1,
+              "offPrice": 1880,
+              "originalPrice": 1880,
+              "promotionTag": "",
+              "skuId": 102450,
+              "stock": 998,
+              "wareId": 102450,
+              "wareImgUri": "20160726/21b18584-536c-4381-a0da-54994cbec9de",
+              "wareImgUrl": "//img.dmallcdn.com//20160726/21b18584-536c-4381-a0da-54994cbec9de",
+              "wareName": "带鱼B级2条 600g",
+              "warePrice": 18.8
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1498,
+              "iconId": -1,
+              "offPrice": 1498,
+              "originalPrice": 1498,
+              "promotionTag": "",
+              "skuId": 102377,
+              "stock": 999,
+              "wareId": 102377,
+              "wareImgUri": "20161014/e3aeb5d6-1729-432f-adce-225055ef2a13",
+              "wareImgUrl": "//img.dmallcdn.com//20161014/e3aeb5d6-1729-432f-adce-225055ef2a13",
+              "wareName": "鱿鱼圈（25%包冰） 500g",
+              "warePrice": 14.98
+            },
+            {
+              "adSettings": {
+                "bgColor": "#ff6f00"
+              },
+              "businessType": 2,
+              "customPrice": 1380,
+              "iconId": -1,
+              "offPrice": 1380,
+              "originalPrice": 1380,
+              "promotionTag": "",
+              "skuId": 100258328,
+              "stock": 14,
+              "wareId": 10259293,
+              "wareImgUri": "20161213/b1e6aaa0-a29e-4a2d-ace2-3be7ad74d26b",
+              "wareImgUrl": "//img.dmallcdn.com//20161213/b1e6aaa0-a29e-4a2d-ace2-3be7ad74d26b",
+              "wareName": "乐渔带鱼段 700g",
+              "warePrice": 13.8
+            },
+            {
+              "businessType": 2,
+              "skuId": 100258575,
+              "stock": 40,
+              "wareId": 10259544,
+              "wareImgUri": "20161112/249abf74-c888-47bb-85df-819e458ca6a6",
+              "wareImgUrl": "//img.dmallcdn.com//20161112/249abf74-c888-47bb-85df-819e458ca6a6",
+              "wareName": "乐渔鳕鱼 300g",
+              "warePrice": 11.5
+            }
+          ],
+          "promotionTag": "",
+          "showOffPrice": 1,
+          "skuStockRule": "1"
+        }
+      },
+      "instanceId": 1126741,
+      "moduleDesc": "商品推荐",
+      "moduleName": "ware-rcmd",
+      "tplName": "ware-rcmd-template1"
+    },
+    {
+      "data": {
+        "areas": [],
+        "imgHeight": "260",
+        "imgSrc": "//img.dmallcdn.com//dshop/201706/c8335034-1623-49e4-89f4-1af8f32e5f01",
+        "imgWidth": "750"
+      },
+      "instanceId": 1131638,
+      "moduleDesc": "图片热区",
+      "moduleName": "image-area",
+      "tplName": "image-area-template1"
+    },
+    {
+      "data": {},
+      "instanceId": 1126742,
+      "moduleDesc": "去顶部",
+      "moduleName": "go-top",
+      "tplName": "go-top-template2"
+    }
+  ],
+  "settings": {
+    "errorMsgList": [
+      {
+        "instanceId": 1120743,
+        "notSell": "[108897, 100257983]以上SKU在【三旗百汇店】不可售",
+        "sellOut": "[106467]以上SKU在【三旗百汇店】已售罄且已隐藏"
+      },
+      {
+        "instanceId": 1126741,
+        "notExist": "[100313861]以上SKU在【三旗百汇店】不存在",
+        "notSell": "[100333692, 102373, 100250477, 100258572, 100301569]以上SKU在【三旗百汇店】不可售"
+      }
+    ],
+    "pageBgColor": "#0079fe",
+    "pageName": "生鲜总动员"
+  },
+  "source": {
+    "css": [
+      "navigate/navigate-template1/navigate-template1.css,ware-rcmd/ware-rcmd-template1/ware-rcmd-template1.css,go-top/go-top-template2/go-top-template2.css,image-area/image-area-template1/image-area-template1.css?v=1496199981000"
+    ],
+    "js": [
+      "ware-rcmd/ware-rcmd-template1/ware-rcmd-template1.js,go-top/go-top-template2/go-top-template2.js,navigate/navigate-template1/navigate-template1.js,image-area/image-area-template1/image-area-template1.js?v=1496199981000"
+    ],
+    "lastModified": [
+      1495778711000,
+      1473783935000,
+      1495778711000,
+      1495778711000,
+      1495778711000,
+      1495778711000,
+      1495778711000,
+      1490369435481,
+      1496199981000,
+      1496199981000,
+      1496199981000,
+      1496199981000
+    ],
+    "tpl": [
+      "navigate/navigate-template1/navigate-template1.tpl,ware-rcmd/ware-rcmd-template1/ware-rcmd-template1.tpl,go-top/go-top-template2/go-top-template2.tpl,image-area/image-area-template1/image-area-template1.tpl?v=1496199981000"
+    ]
+  }
+}
